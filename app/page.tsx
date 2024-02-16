@@ -96,7 +96,7 @@ export default function Home() {
                       }
 
 
-                    }} defaultValue={items[key].itemUnitPrice} type="number" className="w-16" />
+                    }} defaultValue={items[key].itemUnitPrice} type="number" className="w-24" />
                   </td>
                   <td className="border border-black">
                     <input onChange={(e) => {
