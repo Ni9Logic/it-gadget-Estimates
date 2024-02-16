@@ -56,7 +56,7 @@ export default function Home() {
   }
 
   return (
-    <div className="h-screen flex flex-col gap-1 mt-[15rem]">
+    <div className="h-screen flex flex-col gap-1">
       <h1 className="font-bold text-2xl text-center underline print:hidden">Estimate Creation</h1>
       {/* My Table Here */}
       <div className="flex justify-center">
